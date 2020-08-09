@@ -1,5 +1,5 @@
 # [EggShell](http://lucasjackson.io/eggshell)
-
+[![Run on Repl.it](https://repl.it/badge/github/neoneggplant/EggShell)](https://repl.it/github/neoneggplant/EggShell)
 
 
 ## About
